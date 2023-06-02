@@ -1,2 +1,2 @@
-# Contact-Managern-App
+# Contact-Manager-App
 Reactjs 
