@@ -1,0 +1,13 @@
+.uifixedmenu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    background-color: burlywood;
+  }
+  
+  .uicontactcenter{
+    text-align: center;
+  }
+
+  
